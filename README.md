@@ -1,2 +1,2 @@
-# RoboticDog_Phase2
-This is the repo of the Robotic Dog that our team had made under Robotics Club MNNIT. It provides all the kinematics code and the Arduino code involved.
+This project is the summer project of 2025-26.
+The Robotics Club of MNNIT presents the Robotic Dog.
